@@ -1,0 +1,1 @@
+apt-get install gnu-efi mtools python3 python3-pip qemu

@@ -1,0 +1,3 @@
+https://fadeevab.com/how-to-setup-qemu-output-to-console-and-automate-using-shell-script/
+https://wiki.osdev.org/Debugging_UEFI_applications_with_GDB
+https://wiki.osdev.org/UEFI_App_Bare_Bones
